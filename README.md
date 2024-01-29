@@ -4,8 +4,7 @@ Detailed Documentation to Setup CI/CD pipeline using AWS for Deep Learning Model
 
 ## OverView
 
-
-
+![image](https://github.com/AbhishekPawaskar/ml-deployment-on-aws/assets/46342691/afa62611-f145-406f-9caa-4777315d4ea3)
 
 ## Contents
 
