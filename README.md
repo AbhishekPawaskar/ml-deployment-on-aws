@@ -158,6 +158,6 @@ There are two major Parts to this.
 #2. Authenticate and connect to your cluster
 #3. deploy using the command
 
-$ kubectl create -f Deployments.yaml
+$ kubectl create -f Deployment.yaml
 
 ```
