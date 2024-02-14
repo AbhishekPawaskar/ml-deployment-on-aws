@@ -1,4 +1,4 @@
-# CI/CD pipeline for building Deployable Deep Learning Models in AWS
+# CI/CD pipeline for building Deployable Deep Learning Models in AWS using Tensorflow Serving
 
 Detailed Documentation to Setup CI/CD pipeline using AWS for Deep Learning Models in Kubernetes.
 
